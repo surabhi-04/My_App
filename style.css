@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue; /* Sets the background color for the whole page */
+}
+
+h1 {
+  color: white; /* Sets the text color to white for all H1 headings */
+  text-align: center; /* Centers the H1 heading text */
+}
+
+p {
+  font-family: verdana; /* Changes the font to Verdana (with fallbacks) */
+  font-size: 20px; /* Sets the font size to 20 pixels */
+  border: 2px solid purple; /* Adds a solid purple border around all paragraphs */
+  padding: 10px; /* Adds space inside the border and around the text */
+  margin: 15px; /* Adds space outside the border and around the element */
+}
